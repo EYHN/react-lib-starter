@@ -10,8 +10,8 @@ Typescript react library starter, with demo page.
 
 ## Command
 
-* `yarn dev`: Start dev server
-* `yarn build`: Build production bundle.
+* `pnpm dev`: Start dev server
+* `pnpm build`: Build production bundle.
 
 ## Auto deploy github page
 

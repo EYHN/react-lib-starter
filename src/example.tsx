@@ -1,8 +1,8 @@
-import ReactDOM from 'react-dom'
-import { ExampleComponent } from './react-lib'
+import ReactDOM from 'react-dom';
+import { ExampleComponent } from './react-lib';
 
 const App = () => {
-  return <ExampleComponent />
-}
+  return <ExampleComponent />;
+};
 
-ReactDOM.render(<App />, document.getElementById('root'))
+ReactDOM.render(<App />, document.getElementById('root'));
