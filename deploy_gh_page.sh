@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 mkdir ./deploy-gh-page
-cp -rf "${DeployPath:-./dist/}" ./deploy-gh-page
+cp -rf "${DeployPath:-./dist}/." ./deploy-gh-page
 cd ./deploy-gh-page
 
 git init

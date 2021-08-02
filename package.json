@@ -17,7 +17,8 @@
   "targets": {
     "example": {
       "context": "browser",
-      "source": "src/example.html"
+      "source": "src/example.html",
+      "publicUrl": "."
     },
     "main": {},
     "module": {},
