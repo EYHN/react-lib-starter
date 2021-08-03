@@ -11,15 +11,7 @@
     "allowSyntheticDefaultImports": true,
     "noUnusedLocals": true,
     "noUnusedParameters": true,
-    "moduleResolution": "node",
-    "typeRoots": [
-        "./node_modules/@types"
-    ],
-    "paths": {
-    },
-    "types": [
-      "react"
-    ]
+    "moduleResolution": "node"
   },
   "include": [
     "src/**/*"
