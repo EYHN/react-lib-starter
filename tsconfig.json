@@ -1,17 +1,16 @@
 {
   "compilerOptions": {
-    "baseUrl": ".",
     "sourceMap": true,
     "noImplicitAny": true,
     "module": "esnext",
     "target": "esnext",
     "jsx": "react-jsx",
-    "strictNullChecks": true,
     "experimentalDecorators": true,
     "allowSyntheticDefaultImports": true,
     "noUnusedLocals": true,
     "noUnusedParameters": true,
-    "moduleResolution": "node"
+    "moduleResolution": "node",
+    "strict": true
   },
   "include": [
     "src/**/*"
