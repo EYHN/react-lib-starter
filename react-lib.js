@@ -1,0 +1,2 @@
+var e,t,r,n,o=require("react/jsx-runtime"),a=o.jsxs,c=o.jsx,i=require("react"),s=i.useState,l=i.useCallback;e=module.exports,t="ExampleComponent",r=()=>u,Object.defineProperty(e,t,{get:r,set:n,enumerable:!0,configurable:!0});const u=()=>{const[e,t]=s(0),r=l((()=>{t((e=>e+1))}),[]);return a("div",{children:["Example React Component: ",e," ",c("button",Object.assign({onClick:r},{children:"+1"}),void 0)]},void 0)};
+//# sourceMappingURL=react-lib.js.map
